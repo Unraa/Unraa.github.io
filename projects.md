@@ -6,6 +6,8 @@ nav_order: 4
 
 # Projects
 
+<div class="project-card">
+  
 ## IPhone Comparsion Website
 
 ### 프로젝트 소개
@@ -31,6 +33,10 @@ nav_order: 4
 
 ### 개선 방향
 검색 기능 및 가격 비교, 필터 기능을 추가하고 여러 휴대폰 기종들을 추가하여 사용성을 개선할 예정입니다.
+
+</div>
+
+<div class="project-card">
 
 ## AI Chatbot for Computer Science Students
 
@@ -63,4 +69,5 @@ AI 프롬프트 및 가독성을 위한 챗봇 인터페이스 조정
 
 ### Github Site
 https://github.com/Unraa/HUFS-OOS-cs-student-ragbot
-  
+
+</div>
