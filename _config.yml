@@ -7,5 +7,6 @@ color_scheme: dark
 
 search_enabled: false
 
-permalink: pretty
-
+just_the_docs:
+  custom_css:
+    - custom
