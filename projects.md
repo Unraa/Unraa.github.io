@@ -61,5 +61,5 @@ AI 프롬프트 및 가독성을 위한 챗봇 인터페이스 조정
 추후 학과 공지사항 및 커뮤니티 기능 포함 예정
 
 ### Github Site
-
+https://github.com/Unraa/HUFS-OOS-cs-student-ragbot
   
