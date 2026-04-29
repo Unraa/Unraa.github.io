@@ -41,8 +41,8 @@ nav_order: 4
 
 ### 결과
 
-![image]("https://github.com/user-attachments/assets/46312947-9f82-4043-8629-5ee7700fa5ee")
-![image]("https://github.com/user-attachments/assets/253bcc98-2baa-4eba-bd20-8ecc725619bd")
+![image](assets/image/Web_1.png)
+![image](assets/image/Web_2.png)
 
 ---
 
@@ -86,5 +86,5 @@ https://github.com/Unraa/HUFS-OOS-cs-student-ragbot
 
 ### 결과
 
-![image]("https://github.com/user-attachments/assets/87535d76-ab04-4537-863b-b1759b6a35c8")
-![image]("https://github.com/user-attachments/assets/055e8baf-d55f-4cdc-a819-c86843befa3d")
+![image](assets/image/AI_1.png)
+![image](assets/image/AI_2.png)
