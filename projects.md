@@ -39,6 +39,11 @@ nav_order: 4
 
 검색 기능 및 가격 비교, 필터 기능을 추가하고 여러 휴대폰 기종들을 추가하여 사용성을 개선할 예정입니다.
 
+### 결과
+
+![image]("https://github.com/user-attachments/assets/46312947-9f82-4043-8629-5ee7700fa5ee")
+![image]("https://github.com/user-attachments/assets/253bcc98-2baa-4eba-bd20-8ecc725619bd")
+
 ---
 
 ## **AI Chatbot for Computer Science Students**
@@ -78,3 +83,8 @@ AI 프롬프트 및 가독성을 위한 챗봇 인터페이스 조정
 ### Github Site
 
 https://github.com/Unraa/HUFS-OOS-cs-student-ragbot
+
+### 결과
+
+![image]("https://github.com/user-attachments/assets/87535d76-ab04-4537-863b-b1759b6a35c8")
+![image]("https://github.com/user-attachments/assets/055e8baf-d55f-4cdc-a819-c86843befa3d")
