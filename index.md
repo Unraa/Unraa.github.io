@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: Index
+layout: default
 nav_order: 1
 ---
 
